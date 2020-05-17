@@ -1,0 +1,4 @@
+[submodule "3rdparty/DenseFusion"]
+	path = 3rdparty/DenseFusion
+	url = https://github.com/j96w/DenseFusion.git
+	branch = master
